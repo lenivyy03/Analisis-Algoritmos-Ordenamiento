@@ -15,7 +15,7 @@ const int INCREMENTO = 10;
 
 // ------------------------- ALGORITMOS DE ORDENAMIENTO -------------------------
 
-// 1. Ordenamiento por Inserción
+// Ordenamiento por Inserción
 void insercionPorOrden(int arr[], int n) {
     for (int i = 1; i < n; i++) {
         int val = arr[i];
@@ -28,7 +28,7 @@ void insercionPorOrden(int arr[], int n) {
     }
 }
 
-// 2. Ordenamiento Burbuja Optimizado
+//  Ordenamiento Burbuja 
 void ordenamientoBurbujaOptimizado(int arr[], int n) {
     bool intercambiado;
     for (int i = 0; i < n - 1; i++) {
@@ -43,7 +43,7 @@ void ordenamientoBurbujaOptimizado(int arr[], int n) {
     }
 }
 
-// 3. Ordenamiento por Selección
+//  Ordenamiento por Selección
 void ordenamientoPorSeleccion(int arr[], int n) {
     for (int i = 0; i < n - 1; i++) {
         int min_idx = i;
