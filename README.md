@@ -25,6 +25,8 @@ g++ -std=c++11 algoritmos.cpp -o programa.exe
 Ejecutar:
 Una vez se haya compilado el programa, se te generará un ejecutable. Puedes ir directamente a la carpeta para verlo o puedes escribir en tu terminal programa.exe y el programa comenzará a ejecutarse.
 
+**Tambien puedes abrir el programa en cualquier programa para editar de codigo copiarlo, pegarlo y correrlo.**
+
 Importante:
 El programa genera 7 archivos CSV con los resultados.
 
