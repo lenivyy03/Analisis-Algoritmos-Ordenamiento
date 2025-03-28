@@ -92,7 +92,7 @@ La eficiencia de estos tres últimos radica en que su complejidad temporal sigue
 
 
 
-**CONCLUSIONES**
+**CONCLUSIÓN**
 Podemos concluir que el algoritmo de Bubble Sort no es una opción eficiente para ordenar grandes volúmenes de datos, aunque es útil como herramienta didáctica para comprender los fundamentos del ordenamiento.
 
 Por otro lado, algoritmos como Quick Sort, Merge Sort y Shell Sort ofrecen una mejor eficiencia en la mayoría de los casos, siendo opciones más adecuadas para aplicaciones prácticas. La elección del algoritmo adecuado dependerá de varios factores, como:
