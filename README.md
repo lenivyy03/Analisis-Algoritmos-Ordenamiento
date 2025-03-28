@@ -16,7 +16,7 @@ g++ -std=c++11 -O2 tu_codigo.cpp -o ejecutable
 Ejecutar:
 ./ejecutable
 
-⚠️ Importante:
+**Importante**
 El programa genera 7 archivos CSV con los resultados.
 
 Usa NUM_PRUEBAS = 10 y MAX_TAMANO = 100 para pruebas rápidas.
