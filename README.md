@@ -7,7 +7,7 @@ se utilizaron arreglos de tamaños de 10 hasta el 1000 en 10 en 10, para ver com
 
 **REQUISITOS PARA EJECUTAR EL CODIGO**
 Compilador C++ (GCC, Clang o MSVC) con soporte para C++11.
-Sistema operativo: Windows, Linux o macOS.
+Sistema operativo: Windows.
 Memoria RAM: Suficiente para manejar arreglos grandes (2GB+ recomendados).
 
 
