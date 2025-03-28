@@ -10,29 +10,28 @@ Compilador C++ (GCC, Clang o MSVC) con soporte para C++11.
 Sistema operativo: Windows, Linux o macOS.
 Memoria RAM: Suficiente para manejar arreglos grandes (2GB+ recomendados).
 
+
+**INSTRUCCIONES**
 Pasos clave:
 Compilar:
-g++ -std=c++11 -O2 algoritmos.cpp -o 
-Ejecutar:
-./ejecutable
+Primero consigue la dirección donde tienes tu archivo.
 
-**Importante**
+Utiliza:
+cd C:\Users\TuUsuario\Desktop
+
+Después:
+g++ -std=c++11 algoritmos.cpp -o programa.exe
+
+Ejecutar:
+Una vez se haya compilado el programa, se te generará un ejecutable. Puedes ir directamente a la carpeta para verlo o puedes escribir en tu terminal programa.exe y el programa comenzará a ejecutarse.
+
+Importante:
 El programa genera 7 archivos CSV con los resultados.
 
 Usa NUM_PRUEBAS = 10 y MAX_TAMANO = 100 para pruebas rápidas.
 
+Si quieres realizar las 1000 pruebas, sé consciente de que esto puede tardar dependiendo de tu dispositivo.
 
-
-**INSTRUCCIONES**
-Descarga o copia el código en un archivo llamado algoritmos.cpp.
-Abre una terminal (Linux/macOS) o CMD/PowerShell (Windows).
-Compila:
-g++ -std=c++11 algoritmos.cpp -o algoritmos // Copiar esto
-Ejecuta:
-./algoritmos        # Linux/macOS
-algoritmos.exe      # Windows
-
-Se generarán 7 archivos CSV con los resultados.
 
 
 **ALGORITMOS**
