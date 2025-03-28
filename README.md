@@ -1,4 +1,4 @@
-                                                                ALGORITMOS DE ORDENAMIENTO
+                                                            ALGORITMOS DE ORDENAMIENTO
 
 DESCRIPCIÓN:
 REQUISITOS PARA EJECUTAR EL CODIGO:
