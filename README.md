@@ -12,7 +12,7 @@ Memoria RAM: Suficiente para manejar arreglos grandes (2GB+ recomendados).
 
 Pasos clave:
 Compilar:
-g++ -std=c++11 -O2 tu_codigo.cpp -o ejecutable
+g++ -std=c++11 -O2 algoritmos.cpp -o 
 Ejecutar:
 ./ejecutable
 
